@@ -13,10 +13,4 @@ run:
     - master
 
 scripts:
-  - make test
-
-artifacts:
-  - test-reports
-
-test-reports:
-  - test-reports
+  - echo This repository does not run any tests
